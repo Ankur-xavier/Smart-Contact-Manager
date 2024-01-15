@@ -4,4 +4,5 @@ We've used Spring Boot for the back-end, making it super efficient with features
 On the front end, we've got a sleek interface thanks to HTML5, CSS3, Bootstrap, and Thymeleaf.
 For the tech-savvy: Spring Data JPA takes care of database operations. 
 It's a learning project, so we've followed the MVC architecture for a clean structure.
+You can simply download the source code and export it to any ide (STS,eclipse) and just change the db and tomcat related properties in the application.properties file .
 Dive in, explore, and let us know what you think!
